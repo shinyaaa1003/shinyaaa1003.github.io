@@ -11,14 +11,12 @@ This is my first blog post using the minima theme with Jekyll.
 
 I'm excited to start blogging and sharing my thoughts and experiences with you all.
 
-## Markdown is Awesome
+## My Interest
 
-Markdown is a lightweight markup language that allows you to write content quickly and easily without getting bogged down in HTML tags.
+- Natural Language Processing
+- Competitive programming
 
-### Markdown Examples
+## SNS
 
-- Lists
-- Links: [OpenAI](https://openai.com/)
-- Images: ![Minima Logo](/assets/images/minima-logo.png)
-
-I look forward to writing more posts in the future!
+- [X (Twitter)] (https://twitter.com/aynihs_04)https://twitter.com/aynihs_04)
+- [Atcoder] (https://atcoder.jp/users/shinya04)https://atcoder.jp/users/shinya04)
