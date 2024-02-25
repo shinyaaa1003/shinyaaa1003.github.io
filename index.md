@@ -19,5 +19,5 @@ I'm excited to start blogging and sharing my thoughts and experiences with you a
 
 ## SNS
 
-- [X (Twitter)] (https://twitter.com/aynihs_04)
-- [Atcoder] (https://atcoder.jp/users/shinya04)
+- [X (Twitter)](https://twitter.com/aynihs_04)
+- [Atcoder](https://atcoder.jp/users/shinya04)
