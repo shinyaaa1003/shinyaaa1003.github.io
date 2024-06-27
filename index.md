@@ -4,20 +4,20 @@ title: "shinyaaa1003"
 ---
 ![wS5c9v93_400x400](https://github.com/shinyaaa1003/shinyaaa1003.github.io/assets/109857419/b52d37e7-ff51-489d-a9db-1da903e21a2d)
 
-# Welcome to My Blog
-
-This is my first blog post using the minima theme with Jekyll.
-
 ## Introduction
 
-I'm excited to start blogging and sharing my thoughts and experiences with you all.
+名古屋にいます（現在進行形）
 
-## My Interest
+## 興味
 
 - Natural Language Processing
 - Competitive programming
 
-## Publications
+## 経歴
+- 2023年3月 名古屋大学情報学部コンピュータ科学科卒業
+- 2023年4月~ 名古屋大学情報学研究科知能システム学専攻 博士前期課程 入学
+
+## 発表
 (* Equal contribution)
 
 **International Conferences (Refereed)**
