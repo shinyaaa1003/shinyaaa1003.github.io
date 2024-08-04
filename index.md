@@ -3,6 +3,7 @@ layout: home
 title: "shinyaaa1003"
 ---
 ![wS5c9v93_400x400](https://github.com/shinyaaa1003/shinyaaa1003.github.io/assets/109857419/b52d37e7-ff51-489d-a9db-1da903e21a2d)
+![IMG_1730](https://github.com/user-attachments/assets/f68be76c-a90f-48d7-a2c7-77fa999dfd80)
 
 ## Introduction
 
@@ -14,8 +15,11 @@ title: "shinyaaa1003"
 - Competitive programming
 
 ## 経歴
-- 2023年3月 名古屋大学情報学部コンピュータ科学科卒業
-- 2023年4月~ 名古屋大学情報学研究科知能システム学専攻 博士前期課程 入学
+- 2015年4月 ~ 2018年3月 三重県立桑名高等学校 
+- 2018年4月 ~ 2019年3月 ウルトラハイパーゲーミング自宅浪人生
+- 2019年4月 ~ 2023年3月 名古屋大学情報学部コンピュータ科学科 
+- 2023年4月 ~ now 名古屋大学情報学研究科知能システム学専攻 博士前期課程 入学
+- 2025年4月 ~ coming soon...
 
 ## 発表
 (* Equal contribution)
@@ -33,3 +37,4 @@ title: "shinyaaa1003"
 ## SNS
 - [X (Twitter)](https://twitter.com/aynihs_04)
 - [Atcoder](https://atcoder.jp/users/shinya04)
+- [Instagram](https://www.instagram.com/shinya___0423/)
