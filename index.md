@@ -37,4 +37,3 @@ title: "Shinya Iizuka / 飯塚慎也"
 ## SNS
 - [X (Twitter)](https://twitter.com/aynihs_04)
 - [Atcoder](https://atcoder.jp/users/shinya04)
-- [Instagram](https://www.instagram.com/shinya___0423/)
