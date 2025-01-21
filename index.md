@@ -2,7 +2,7 @@
 layout: home
 title: "Shinya Iizuka / 飯塚慎也"
 ---
-<img src="https://github.com/shinyaaa1003/shinyaaa1003.github.io/assets/109857419/b52d37e7-ff51-489d-a9db-1da903e21a2d"> <img src="https://github.com/user-attachments/assets/f68be76c-a90f-48d7-a2c7-77fa999dfd80">
+<img src="https://github.com/shinyaaa1003/shinyaaa1003.github.io/assets/109857419/b52d37e7-ff51-489d-a9db-1da903e21a2d"> <img src="https://github.com/user-attachments/assets/f68be76c-a90f-48d7-a2c7-77fa999dfd80" width="40%">
 
 ## Introduction
 
