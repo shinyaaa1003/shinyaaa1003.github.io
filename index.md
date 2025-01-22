@@ -29,7 +29,7 @@ title: "Shinya Iizuka / 飯塚慎也"
 
 **Non-refereed**
 - 大橋厚元\*, 平井龍\*, <u>飯塚慎也</u>, 東中竜一郎. **“JMultiWOZ に対する対話状態アノテーションの付与と対話システムの実装評価,”** 言語処理学会 第30回年次大会 (NLP), 2024
-- 大橋厚元\*, 平井龍\*, <u>飯塚慎也</u>, 東中竜一郎. **“JMultiWOZ: 日本語タスク指向型対話データセットの構築,”** 言語処理学会 第29回年次大会 (NLP), 2023 [若手奨励賞]
+- 大橋厚元\*, 平井龍\*, <u>飯塚慎也</u>, 東中竜一郎. **“JMultiWOZ: 日本語タスク指向型対話データセットの構築,”** 言語処理学会 第29回年次大会 (NLP), 2023 <font color="red">[若手奨励賞]</font>
 - Ryu Hirai, <u>Shinya Iizuka</u>, Haruhisa Iseno, Ao Guo, Jingjing Jiang, Atsumoto Ohashi, Ryuichiro Higashinaka, **“Team Flow at DRC2023: Building Common Ground and Text-based Turn-taking in a Travel Agent Spoken Dialogue System,”** Dialogue Robot Competition 2023
 - Ryu Hirai\*, Atsumoto Ohashi\*, Ao Guo, Hideki Shiroma, Xulin Zhou, Yukihiko Tone, <u>Shinya Iizuka</u>, Ryuichiro Higashinaka. **“Team Flow at DRC2022: Pipeline System for Travel Destination Recommendation Task in Spoken Dialogue,”** Dialogue Robot Competition 2022
 
