@@ -28,8 +28,8 @@ title: "Shinya Iizuka / 飯塚慎也"
 - <u>Shinya Iizuka</u>\*, Shota Mochizuki\*, Atsumoto Ohashi, Sanae Yamashita, Ao Guo and Ryuichiro Higashinaka. **“Clarifying the Dialogue-Level Performance of GPT-3.5 and GPT-4 in Task-Oriented and Non-Task-Oriented Dialogue Systems,”** In AAAI Fall Symposium on Artificial Intelligence for Human-Robot Interaction (AI-HRI), 2023
 
 **Non-refereed**
-- <u>飯塚慎也\*</u>, 東中竜一郎. **“適応的対話システムのための終盤の会話を予測する埋め込みモデルの構築,”** 言語処理学会 第31回年次大会 (NLP), 2025
-- 大橋厚元\*,　<u>飯塚慎也</u>, 姜菁菁, 東中竜一郎. **“日本語 Full-duplex 音声対話システムの試作,”** 言語処理学会 第31回年次大会 (NLP), 2025
+- <u>飯塚慎也</u>, 東中竜一郎. **“適応的対話システムのための終盤の会話を予測する埋め込みモデルの構築,”** 言語処理学会 第31回年次大会 (NLP), 2025
+- 大橋厚元, <u>飯塚慎也</u>, 姜菁菁, 東中竜一郎. **“日本語 Full-duplex 音声対話システムの試作,”** 言語処理学会 第31回年次大会 (NLP), 2025
 - 大橋厚元\*, 平井龍\*, <u>飯塚慎也</u>, 東中竜一郎. **“JMultiWOZ に対する対話状態アノテーションの付与と対話システムの実装評価,”** 言語処理学会 第30回年次大会 (NLP), 2024
 - 大橋厚元\*, 平井龍\*, <u>飯塚慎也</u>, 東中竜一郎. **“JMultiWOZ: 日本語タスク指向型対話データセットの構築,”** 言語処理学会 第29回年次大会 (NLP), 2023 <font color="red">[若手奨励賞]</font>
 - Ryu Hirai, <u>Shinya Iizuka</u>, Haruhisa Iseno, Ao Guo, Jingjing Jiang, Atsumoto Ohashi, Ryuichiro Higashinaka, **“Team Flow at DRC2023: Building Common Ground and Text-based Turn-taking in a Travel Agent Spoken Dialogue System,”** Dialogue Robot Competition 2023
