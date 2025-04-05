@@ -6,7 +6,7 @@ title: "Shinya Iizuka / 飯塚慎也"
 
 ## Introduction
 
-名古屋にいます（現在進行形）
+名古屋にいました．
 
 ## 興味
 
@@ -17,8 +17,8 @@ title: "Shinya Iizuka / 飯塚慎也"
 - 2015年4月 ~ 2018年3月 三重県立桑名高等学校 
 - 2018年4月 ~ 2019年3月 ウルトラハイパーゲーミング自宅浪人生
 - 2019年4月 ~ 2023年3月 名古屋大学情報学部コンピュータ科学科 
-- 2023年4月 ~ now 名古屋大学情報学研究科知能システム学専攻 博士前期課程 入学
-- 2025年4月 ~ coming soon...
+- 2023年4月 ~ 名古屋大学情報学研究科知能システム学専攻 博士前期課程 入学
+- 2025年4月 ~ 某社
 
 ## 発表
 (* Equal contribution)
@@ -29,7 +29,7 @@ title: "Shinya Iizuka / 飯塚慎也"
 
 **Non-refereed**
 - <u>飯塚慎也</u>, 東中竜一郎. **“適応的対話システムのための終盤の会話を予測する埋め込みモデルの構築,”** 言語処理学会 第31回年次大会 (NLP), 2025
-- 大橋厚元, <u>飯塚慎也</u>, 姜菁菁, 東中竜一郎. **“日本語 Full-duplex 音声対話システムの試作,”** 言語処理学会 第31回年次大会 (NLP), 2025
+- 大橋厚元, <u>飯塚慎也</u>, 姜菁菁, 東中竜一郎. **“日本語 Full-duplex 音声対話システムの試作,”** 言語処理学会 第31回年次大会 (NLP), 2025  <font color="red">[委員特別賞]
 - 大橋厚元\*, 平井龍\*, <u>飯塚慎也</u>, 東中竜一郎. **“JMultiWOZ に対する対話状態アノテーションの付与と対話システムの実装評価,”** 言語処理学会 第30回年次大会 (NLP), 2024
 - 大橋厚元\*, 平井龍\*, <u>飯塚慎也</u>, 東中竜一郎. **“JMultiWOZ: 日本語タスク指向型対話データセットの構築,”** 言語処理学会 第29回年次大会 (NLP), 2023 <font color="red">[若手奨励賞]</font>
 - Ryu Hirai, <u>Shinya Iizuka</u>, Haruhisa Iseno, Ao Guo, Jingjing Jiang, Atsumoto Ohashi, Ryuichiro Higashinaka, **“Team Flow at DRC2023: Building Common Ground and Text-based Turn-taking in a Travel Agent Spoken Dialogue System,”** Dialogue Robot Competition 2023
