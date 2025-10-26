@@ -24,6 +24,8 @@ title: "Shinya Iizuka / 飯塚慎也"
 (* Equal contribution)
 
 **International Conferences (Refereed)**
+- Atsumoto Ohashi\*, <u>Shinya Iizuka</u>, Jingjing Jiang, Ryuichiro Higashinaka. **“Towards a Japanese Full-duplex Spoken Dialogue System,”** The 26th Interspeech Conference (INTERSPEECH 2025), 2025
+- Ryuichiro Higashinaka, Tetsuro Takahashi, <u>Shinya Iizuka</u>, Sota Horiuchi, Michimasa Inaba, Zhiyang Qi, Yuta Sasaki, Kotaro Funakoshi, Shoji Moriya, Shiki Sato, Takashi Minato, Kurima Sakai, Tomo Funayama, Masato Komuro, Hiroyuki Nishikawa, Ryosaku Makino, Hirofumi Kikuchi, Mayumi Usami. **“DSLCMM: A Multimodal Human-Machine Dialogue Corpus Built through Competitions,”** Proceedings of the 15th International Workshop on Spoken Dialogue Systems Technology, 2025
 - Atsumoto Ohashi\*, Ryu Hirai\*, <u>Shinya Iizuka</u>, Ryuichiro Higashinaka. **“JMultiWOZ: A Large-Scale Japanese Multi-Domain Task-Oriented Dialogue Dataset,”** The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING), 2024
 - <u>Shinya Iizuka</u>\*, Shota Mochizuki\*, Atsumoto Ohashi, Sanae Yamashita, Ao Guo and Ryuichiro Higashinaka. **“Clarifying the Dialogue-Level Performance of GPT-3.5 and GPT-4 in Task-Oriented and Non-Task-Oriented Dialogue Systems,”** In AAAI Fall Symposium on Artificial Intelligence for Human-Robot Interaction (AI-HRI), 2023
 
